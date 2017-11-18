@@ -3,8 +3,9 @@
 This is a placeholder repository. All the links related to this project :
 - [Main app code](https://github.com/saketh21v/Zichoir_V2)
 - [Companion server code](https://github.com/saketh21v/Zichoir_V2_Companion_Server)
-- [MoM (Read-Only)](https://drive.google.com/file/d/0B_6smPsBdj_QaWRlajVfVU5PbDQ/view?usp=sharing)
-- [Website](https://flamefractal.github.io/zichoir/)
+- [Minutes of the Meetings (Read-Only)](https://drive.google.com/file/d/0B_6smPsBdj_QaWRlajVfVU5PbDQ/view?usp=sharing)
+- [Presentation Files](https://drive.google.com/drive/folders/0B_6smPsBdj_QYk1tZ0pzcFRTODg?usp=sharing)
+- [Website](https://flamefractal.github.io/Zichoir/)
 
 ### Contributors
 
